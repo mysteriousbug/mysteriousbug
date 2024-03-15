@@ -1,5 +1,5 @@
 <h1 align="center">ANANYA AITHAL</h1>
-<h3 align="center">Full-Stack Web Developer<span color="blue"> & </span>Data Analyst <span color="blue"> & </span>  Quantum Computing Enthusiast </h3>
+<h3 align="center">Full-Stack Web Developer, <span color="blue"> </span>Data Analyst <span color="blue"> & </span>  Quantum Computing Enthusiast </h3>
 
 
 
@@ -47,15 +47,6 @@ I'm Ananya, a 20-year-old **Developer** and **Programmer** 👨🏻‍💻 from 
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysteriousbug&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
   </P><br>
   
- 
- 
- 
-----------------
-
-<div align=center>
-![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
-  
-</div>
 
 
 
