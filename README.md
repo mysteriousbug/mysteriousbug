@@ -3,13 +3,13 @@
 
 
 
-### Hola, World! 👋
+### Hell-o, World! 👋
 
 > Talk is cheap. Show me the code.
 >
 > -Linus Torvalds
 
-I'm Ananya, a 20-year-old **Developer** and **Programmer** 👨🏻‍💻 from India. I'm an open-source professional, and I like to develop in Python. I am passionate about **Machine Learning**, **Deep Learning**, and **Quantum Algorithms**. Currently, I'm looking to collaborate on open-source projects.
+I'm Ananya, a 21-year-old **Developer** and **Programmer** 👨🏻‍💻 from India. I'm an open-source professional, and I like to develop in Python. I am passionate about **Machine Learning**, **Deep Learning**, and **Quantum Algorithms**. Currently, I'm looking to collaborate on open-source projects.
 </br>
 
 **Skills :** Python, Java, C/C++, JavaScript
