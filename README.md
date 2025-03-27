@@ -1,5 +1,5 @@
 <h1 align="center">ANANYA AITHAL</h1>
-<h3 align="center">Software Engineer, <span color="blue"> </span>Quantum Computing Enthusiast <span color="blue"> & </span> Coffee Lover  </h3>
+<h3 align="center">Software Engineer and <span color="blue"> </span>Quantum Computing Enthusiast  </h3>
 
 
 
@@ -39,8 +39,6 @@ I'm Ananya, a 21-year-old **Developer** and **Programmer** 👨🏻‍💻 from 
  <br>
  <p align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=mysteriousbug&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
-   <br/>
-  <img   src="https://github-readme-streak-stats.herokuapp.com/?user=mysteriousbug&theme=vue-dark&hide_border=true"/>
    <br />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysteriousbug&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
   </P><br>
